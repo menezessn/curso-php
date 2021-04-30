@@ -26,3 +26,7 @@ array_sum($soma)= calcula e retorna a soma dos elementos de uma array
 explode("/", "20/01/2001") = transforma uma string em uma array, o primeiro parametro é um delimitador e o segundo a string
 
 //implode("," , $array) = transforma uma array em string, o primeiro parametro é um delimitador e o segundo a string
+
+10<=>20 = se os primeiro valor for maior é retornado -1, se forem iguais é retornado zero e se o segundo for maior é retornado 1
+
+xor = faz uma comparação onde uma ou outra condição devem ser verdadeiras, nunca as duas
